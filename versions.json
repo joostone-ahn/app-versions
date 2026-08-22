@@ -1,7 +1,7 @@
 {
   "modem-log-analyzer": {
-    "version": "0.5.1",
-    "box2pcap": "0.2.0",
+    "version": "0.5.2",
+    "box2pcap": "0.2.1",
     "automation": "0.1.27"
   }
 }
