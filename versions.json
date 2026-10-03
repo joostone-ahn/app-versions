@@ -1,8 +1,8 @@
 {
   "modem-log-analyzer": {
-    "version": "0.5.21",
-    "box2pcap": "0.2.4",
-    "automation": "0.1.32"
+    "version": "0.6.0",
+    "box2pcap": "0.3.0",
+    "automation": "0.2.0"
   },
   "sim-apdu-analyzer": {
     "version": "3.11.1"
