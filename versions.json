@@ -1,8 +1,8 @@
 {
-    "modem-log-analyzer":  {
-                               "version":  "0.6.9"
-                           },
     "sim-apdu-analyzer":  {
                               "version":  "4.7"
-                          }
+                          },
+    "modem-log-analyzer":  {
+                               "version":  "0.6.10"
+                           }
 }
